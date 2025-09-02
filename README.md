@@ -459,10 +459,6 @@ def validate_model_performance(model, X_train, X_test, y_train, y_test):
 - **Performance Optimization**: 87.9% (efficiency improvements)
 - **User Satisfaction**: 94.7% (based on peer reviews)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Big Mart Dataset**: For providing comprehensive retail data
